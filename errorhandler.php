@@ -42,9 +42,7 @@
        echo '<input type="text" name="uid" placeholder="username">';
     }
 ?>
-    <br>
-   
-    <br>
+    
     <input type="password" name="pwd" placeholder="password">
     <br>
     <button type="submit" name="submit">Sign up</button>

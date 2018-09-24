@@ -136,6 +136,31 @@
 
 // $_SESSION['name'] = '12';
 
+/*echo "test123";
+echo "<br>";
+
+echo password_hash('test123', PASSWORD_DEFAULT);*/
+
+/*$input = "test123";
+$hashedPwdInDb = password_hash('test123', PASSWORD_DEFAULT);
+echo password_verify($input, $hashedPwdInDb);*/
+
+
+// $data = array();
+// array_push($data, "Li", 15, 30);
+
+
+// print_r($data);
+
+
+// $data = array(
+//     array(1, 2, 3),
+//     "John", 
+//     "Jane");
+//  print_r($data);
+
+// echo $data[0][1];
+
 
 ?>
 
